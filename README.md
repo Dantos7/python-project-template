@@ -10,6 +10,7 @@ Core technology choices:
 - [pre-commit](https://pre-commit.com/)
 - [pytest](https://docs.pytest.org/en/stable/index.html) and [coverage](https://coverage.readthedocs.io/en/stable/)
 - [MkDocs](https://www.mkdocs.org/)
+- [poethepoet](https://poethepoet.natn.io/)
 
 ## Usage
 
