@@ -24,6 +24,8 @@ Core technology choices:
 
 You can easily use this repository as a template by using Github templating feature. By clicking on the "Use this template" green button on the right of the star button, you will be guided through the necessary steps to initialize your new project ✨
 
+Alternatively, you can download the zipped archive of the [latest release](https://github.com/Dantos7/python-project-template/releases/latest).
+
 > 💡 Remember to update this README file to reflect your new project details
 
 ## 🤝 Contributing
