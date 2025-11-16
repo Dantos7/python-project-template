@@ -4,6 +4,18 @@ All notable changes to this project are documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+
+## [0.0.3] - 16/11/2025
+
+### 🐛 Bug fixes
+
+- [pyproject.toml] Fixed bad Coverage configuration
+
+### 📝 Documentation
+
+- [README] Re-written "Usage" section and added "Contributing" section
+
+
 ## [0.0.2] - 16/11/2025
 
 ### ✨ Features

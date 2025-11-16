@@ -20,8 +20,12 @@ Core technology choices:
 - [poethepoet](https://poethepoet.natn.io/) for task management
 - [EditorConfig](https://editorconfig.org/) for maintaining consistent coding styles
 
-## Usage
+## 👷 Usage
 
-Just clone this repository and use it as a starting base. If you use Github, you can also use Github templating feature.
+You can easily use this repository as a template by using Github templating feature. By clicking on the "Use this template" green button on the right of the star button, you will be guided through the necessary steps to initialize your new project ✨
 
 > 💡 Remember to update this README file to reflect your new project details
+
+## 🤝 Contributing
+
+You are welcome to open a pull request if you want to share a new cool tool to include in the template or you want to propose alternative settings for a more efficient setup 😃

@@ -75,7 +75,7 @@ addopts = ["--import-mode=importlib"]
 asyncio_default_fixture_loop_scope = "function"  # Or class, module, package, session
 
 [tool.coverage.run]
-include = ["src/api/*"]  # Comment to include also tests/ code (may help to find unused functions)
+include = ["src/pkg/*"]  # Comment to include also tests/ code (may help to find unused functions)
 
 [tool.coverage.report]
 # Regexes for lines to exclude from consideration
