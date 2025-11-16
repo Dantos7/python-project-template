@@ -1,6 +1,6 @@
 # 🐍 Python Project Template
 
-<p align="center">
+<p>
     <a href="https://www.repostatus.org/#active"><img src="https://www.repostatus.org/badges/latest/active.svg" alt="Project Status: Active – The project is being actively developed."/></a>
     <a href="https://github.com/Dantos7/python-project-template.git"><img alt="Version" src="https://img.shields.io/github/v/release/Dantos7/python-project-template"></a>
     <img alt="Static Badge" src="https://img.shields.io/badge/tests-passing-green?logo=pytest">
