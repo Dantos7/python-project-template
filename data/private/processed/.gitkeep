@@ -1,0 +1,10 @@
+# Ignore EVERYTHING in this folder (and below)
+*
+*/**
+
+# But keep the .gitignore itself (required!)
+!.gitignore
+
+# (Optional) If you want to track a README or other top-level file, un-ignore it explicitly:
+# !README.md
+# !LICENSE

@@ -1,0 +1,9 @@
+# 🌐 data/public
+
+Keep here documents and files that can be shared publicly. Track directly in Git only small files. Larger files should be tracked via [DVC](https://dvc.org/).
+
+## Structure
+
+- `raw/`: Keep raw data files here. These files are never modified once placed here.
+- `interim/` (optional): Keep intermediate data files here. These files are generated from raw data through some initial processing steps. Can be used as a base for further automated processing when the initial processing is expensive and it is desirable to not repeat it often.
+- `processed/`: Keep processed data files here. These files are generated from raw data through a automated pipeline.

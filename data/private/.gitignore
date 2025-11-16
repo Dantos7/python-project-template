@@ -1,0 +1,25 @@
+# Ignore EVERYTHING in this folder (and below)
+*
+
+# But keep the .gitignore file
+!.gitignore
+
+# Un-ignore the processed and raw directories
+!processed/
+!raw/
+
+# Keep only .gitkeep files in those directories
+!processed/.gitkeep
+!raw/.gitkeep
+
+# Ignore everything else in those directories
+processed/*
+raw/*
+
+# But still keep the .gitkeep files (re-assert)
+!processed/.gitkeep
+!raw/.gitkeep
+
+# (Optional) If you want to track a README or other top-level file, un-ignore it explicitly:
+!README.md
+# !LICENSE
